@@ -9,5 +9,3 @@ Skills: REACT / JS / HTML / CSS / SCSS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Skolaczk)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Skolaczk&show_icons=true)  
-
