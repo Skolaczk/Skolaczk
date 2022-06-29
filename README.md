@@ -1,7 +1,7 @@
 ### Hi there 👋, Hi I'm Michał
 My name is Michał. I've been learning programming for one year and several months.
 
-Skills: REACT / JS / HTML / CSS / SCSS
+Skills: REACT / JS / TYPESCRIPT / HTML / CSS / SCSS
 
 
 
