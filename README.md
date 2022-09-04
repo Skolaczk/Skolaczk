@@ -4,7 +4,7 @@
 My name is Michał. I'm 16 years old. I've been learning frontend for almost 2 years.
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:skolakmichal1@gmail.com)](mailto:skolakmichal1@gmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/micha%C5%82-skolak-06905524b/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/micha%C5%82-skolak-06905524b/)
 
 ## 🔧 Technologies
 
