@@ -1,7 +1,11 @@
 ### Hi there 👋, Hi I'm Michał
 ## 🙍 About me
 
-My name is Michał. I'm 16 years old. I've been learning frontend for almost 2 years.
+My name is Michał, I'm 16 years old and I'm from Poland, more precisely from the town of Koprzywnica. I got interested in programming two years ago, when I was studying HTML at school. Later I started learning other frontend technologies.
+
+Now, I'm still learning and creating projects that you can see on Github to become a junior front-end developer in the future.
+
+I'm open to Job opportunities where I can contribute, learn and grow. If you have a good opportunity that matches my skills and experience then don't hesitate to contact me.
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:skolakmichal1@gmail.com)](mailto:skolakmichal1@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/micha%C5%82-skolak-06905524b/)
