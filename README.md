@@ -1,7 +1,7 @@
 ### Hi there 👋, Hi I'm Michał
 ## 🙍 About me
 
-My name is Michał, I'm 17 years old and I'm from Poland, more precisely from the town of Koprzywnica. I got interested in programming two years ago, when I was studying HTML at school. Later I started learning other frontend technologies.
+My name is Michał, I'm junior front-end developer from Poland, more precisely from the town of Koprzywnica. I got interested in programming two years ago, when I was studying HTML at school. Later I started learning other frontend technologies.
 
 Now, I'm still learning and creating projects that you can see on Github to become a junior front-end developer in the future.
 
@@ -10,7 +10,7 @@ I'm open to Job opportunities where I can contribute, learn and grow. If you hav
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:skolakmichal1@gmail.com)](mailto:skolakmichal1@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/micha%C5%82-skolak-06905524b/)
 
-## 🔧 Technologies
+## 🔧 Skills
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
