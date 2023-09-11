@@ -38,7 +38,3 @@ I'm open to Job opportunities where I can contribute, learn and grow. If you hav
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![WebStorm](https://img.shields.io/badge/webstorm-143?style=flat-square&logo=webstorm&logoColor=white&color=black)
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=flat-square&logo=insomnia&logoColor=5849BE)
-
-## 💯 Daily streak
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Skolaczk&theme=dark&hide_border=true&border_radius=&card_width=&background=FFFFFF00&hide_total_contributions=true&hide_longest_streak=true)](https://git.io/streak-stats)
