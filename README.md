@@ -1,7 +1,7 @@
 ### Hi there 👋, Hi I'm Michał
 ## 🙍 About me
 
-My name is Michał, I'm junior front-end developer from Poland, more precisely from the town of Koprzywnica. I got interested in programming two years ago, when I was studying HTML at school. Later I started learning other frontend technologies.
+My name is Michał, I'm junior front-end developer from Poland, more precisely from the town of Koprzywnica. I got interested in programming three years ago, when I was studying HTML at school. Later I started learning other frontend technologies.
 
 Now, I'm still learning and creating projects that you can see on Github to become a junior front-end developer in the future.
 
