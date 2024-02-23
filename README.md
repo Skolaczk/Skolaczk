@@ -1,7 +1,7 @@
 ### Hi there 👋, Hi I'm Michał
 ## 🙍 About me
 
-My name is Michał, I'm junior front-end developer from Poland. I got interested in programming three years ago.
+Hello, I'm Michał. I'm front-end developer from Poland. I enjoy building sites and apps. My focus is React (Next.js).
 
 Now, I'm still learning and creating projects that you can see on Github to become a front-end developer in the future.
 
