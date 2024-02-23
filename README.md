@@ -3,8 +3,6 @@
 
 Hello, I'm Michał. I'm front-end developer from Poland. I enjoy building sites and apps. My focus is React (Next.js).
 
-Now, I'm still learning and creating projects that you can see on Github to become a front-end developer in the future.
-
 I'm open to Job opportunities where I can contribute, learn and grow. If you have a good opportunity that matches my skills and experience then don't hesitate to contact me.
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:skolakmichal1@gmail.com)](mailto:skolakmichal1@gmail.com)
